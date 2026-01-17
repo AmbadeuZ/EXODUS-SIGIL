@@ -28,7 +28,7 @@ EXODUS:SIGIL reflects this idea by delivering a clean, minimal, and controlled k
 ## 🧩 Compatibility
 - **Device**: Redmi Note 10 Pro (sweet / sweetin)
 - **ROM**: AOSP-based ROMs
-- **Android**: Depends on STRIX base version
+- **Android**: 11-16
 - **Recovery**: TWRP / OrangeFox
 
 ---
